@@ -3,10 +3,10 @@
   "description": "Queue module",
   "license": "proprietary",
   "require": {
-    "spryker/gui": "^3.0.0",
-    "spryker/kernel": "^3.0.0",
+    "spryker/gui": "^2.6.0 || ^3.0.0",
+    "spryker/kernel": "^2.8.0 || ^3.0.0",
     "spryker/propel-orm": "^1.0.0",
-    "spryker/symfony": "^3.0.0"
+    "spryker/symfony": "^2.1.8 || ^3.0.0"
   },
   "autoload": {
     "psr-0": {
