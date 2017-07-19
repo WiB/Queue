@@ -7,7 +7,7 @@
 
 namespace Spryker\Zed\Queue\Communication\Controller;
 
-use Spryker\Zed\Kernel\Communication\Controller\AbstractController;
+use Spryker\Zed\Application\Communication\Controller\AbstractController;
 
 /**
  * @method \Spryker\Zed\Queue\Communication\QueueCommunicationFactory getFactory()
